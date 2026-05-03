@@ -3,6 +3,8 @@
 ## 🔥 Project Name - GARDEN
 See the live version of [GARDEN](https://imediasystem.github.io/Garden/) ↗️
 
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Garden/)
+
 About
 A fully responsive website design for a gardening store, utilizing HTML5, CSS3, JavaScript, and Bootstrap to ensure smooth operation on any device. My designs feature clean design, intuitive navigation, and extensive functionality, all tailored to your unique business goals.
 
