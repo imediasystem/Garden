@@ -7,6 +7,12 @@
 About
 A fully responsive website design for a gardening store, utilizing HTML5, CSS3, JavaScript, and Bootstrap to ensure smooth operation on any device. My designs feature clean design, intuitive navigation, and extensive functionality, all tailored to your unique business goals.
 
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
 ## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
